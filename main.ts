@@ -1,8 +1,9 @@
 import { Hono, Context } from 'https://deno.land/x/hono@v3.11.7/mod.ts'
-
+import { YEARS } from './constants.ts'
 const app = new Hono()
 
 type Motorcycle = {
+year: number;
     brand: string,
     models: string[]
 }
@@ -28,6 +29,26 @@ app.get('/api/motorcycles/:year', async (c: Context) => {
         console.error(error);
       }
 })
+
+
+app.get('/api/motorcycles', async (c: Context) => {
+
+    const data = await Promise.all(YEARS.map(async (year) => {
+            const data = await Deno.readTextFile(`motorcycles/${ year }.json`);
+            const jsonData = JSON.parse(data).map((item: Motorcycle ) => {
+                item.year = year
+                return item
+            });
+            return jsonData
+        })
+    )
+
+    const jsonData = data.flat().filter((item: Motorcycle ) => item.models.length > 0);
+
+    return  c.json(jsonData)
+})
+
+
 
 
 Deno.serve(app.fetch)
