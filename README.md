@@ -34,19 +34,19 @@ To run the API, make sure you have Deno installed on your machine. Then, follow 
 
 1. Clone the repository:
 
-        ```bash
+        ```
         git clone https://github.com/your-username/simpleMotorcyleAPI.git
         ```
 
 2. Navigate to the project directory:
 
-        ```bash
+        ```
         cd simpleMotorcyleAPI
         ```
 
 3. Run the API:
 
-        ```bash
+        ```
         deno run --allow-net main.ts
         ```
 
