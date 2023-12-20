@@ -1,6 +1,6 @@
 # Simple Motorcyle API in Deno 🦕
 
-This is a simple API built with Deno that provides information about motorcycles based on their manufacturing year.
+This is a simple API built with Deno that provides information about vehicles based on their manufacturing year.
 
 ## Available Routes
 
@@ -34,21 +34,21 @@ To run the API, make sure you have Deno installed on your machine. Then, follow 
 
 1. Clone the repository:
 
-        ```
-        git clone https://github.com/your-username/simpleMotorcyleAPI.git
-        ```
+```bash
+git clone https://github.com/surdle/vehicles-api.git
+```
 
 2. Navigate to the project directory:
 
-        ```
-        cd simpleMotorcyleAPI
-        ```
+```bash
+cd vehicles-api
+```
 
 3. Run the API:
 
-        ```
-        deno run --allow-net main.ts
-        ```
+```bash
+deno run --allow-net main.ts
+```
 
-        The API will start running on `http://localhost:8000`.
+The API will start running on `http://localhost:8000`.
 
