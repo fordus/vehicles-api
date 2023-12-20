@@ -7,7 +7,7 @@ type Motorcycle = {
     models: string[]
 }
 
-app.get('/api/:year', async (c: Context) => {
+app.get('/api/motorcycles/:year', async (c: Context) => {
 
 
     if (isNaN(c.req.param('year'))) {
