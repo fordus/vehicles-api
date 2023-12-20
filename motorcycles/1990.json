@@ -1,0 +1,812 @@
+[
+    {
+        "make": "AMERICAN CLASSIC MOTORS",
+        "models": []
+    },
+    {
+        "make": "ARLEN NESS MOTORCYCLES",
+        "models": []
+    },
+    {
+        "make": "HONDA",
+        "models": [
+            "CB125TT",
+            "CB400F",
+            "CBR1000F",
+            "CBR125TTL",
+            "CBR600F",
+            "GB500",
+            "GL1500 GOLDWING",
+            "NS50F",
+            "NT650",
+            "NX125",
+            "NX250",
+            "PC800 PACIFIC COAST",
+            "VFR750F",
+            "VFR750R",
+            "VT1100C SHADOW",
+            "VT600C SHADOW",
+            "VT750C SHADOW",
+            "VTR250 INTERCEPTOR",
+            "XL600V",
+            "XR200R",
+            "XR250R",
+            "XR600R"
+        ]
+    },
+    {
+        "make": "BAODIAO",
+        "models": []
+    },
+    {
+        "make": "BETA",
+        "models": [
+            "RR 50"
+        ]
+    },
+    {
+        "make": "BINTELLI",
+        "models": []
+    },
+    {
+        "make": "BMW",
+        "models": [
+            "K1",
+            "K100LT",
+            "K100RS",
+            "K75",
+            "K75RT",
+            "K75S",
+            "R100GS",
+            "R100GS PARISDAKAR",
+            "R100GSPD",
+            "R100RS",
+            "R100RT"
+        ]
+    },
+    {
+        "make": "BRAMMO",
+        "models": []
+    },
+    {
+        "make": "BENELLI",
+        "models": []
+    },
+    {
+        "make": "BENNCHE",
+        "models": []
+    },
+    {
+        "make": "SUZUKI",
+        "models": [
+            "DR100",
+            "DR250",
+            "DR350",
+            "DR650S",
+            "DR800S",
+            "DS80",
+            "GS500",
+            "GSX-R1100",
+            "GSX-R750",
+            "GSX1100F KATANA 1100",
+            "GSX600F KATANA 600",
+            "GSX750F KATANA 750",
+            "LS650 SAVAGE 650",
+            "RMX250",
+            "VS1400 INTRUDER 1400",
+            "VS750 INTRUDER 750",
+            "VX800 MARAUDER 800"
+        ]
+    },
+    {
+        "make": "ARCIMOTO",
+        "models": []
+    },
+    {
+        "make": "BMW",
+        "models": [
+            "K1",
+            "K100LT",
+            "K100RS",
+            "K75",
+            "K75RT",
+            "K75S",
+            "R100GS",
+            "R100GS PARISDAKAR",
+            "R100GSPD",
+            "R100RS",
+            "R100RT"
+        ]
+    },
+    {
+        "make": "HARLEY-DAVIDSON",
+        "models": [
+            "FLHS",
+            "FLHT CLASS SHRINE",
+            "FLHT ELECTRA GLIDE STD",
+            "FLHTC ELECTRA GLIDE CLSC",
+            "FLHTCU ELECTRA GLIDE ULT",
+            "FLHTCU SHRINE",
+            "FLHTP",
+            "FLST",
+            "FLSTC HERITAGE CLASSIC",
+            "FLSTF FAT BOY",
+            "FLT CLASS SHRINE",
+            "FLT CLASSIC",
+            "FLTC-ULTRA",
+            "FLTC-ULTRA SHRINE",
+            "FXLR",
+            "FXR",
+            "FXRP",
+            "FXRS",
+            "FXRS CONV",
+            "FXRT",
+            "FXST SOFTAIL STANDARD",
+            "FXSTC SOFTAIL CUSTOM",
+            "FXSTS SPRINGER SOFTAIL",
+            "XL1200 SPORTSTER",
+            "XL883",
+            "XL883H HUGGER",
+            "XLH1200",
+            "XLH883 DELUXE"
+        ]
+    },
+    {
+        "make": "TRIUMPH",
+        "models": []
+    },
+    {
+        "make": "CAN-AM",
+        "models": []
+    },
+    {
+        "make": "BOREEM",
+        "models": []
+    },
+    {
+        "make": "DUCATI",
+        "models": [
+            "1098S",
+            "1199",
+            "750 SPORT",
+            "851 SPORT",
+            "906 PASO",
+            "M900",
+            "M900/900 S",
+            "MH900E",
+            "MTS 620",
+            "SUPER SPORT",
+            "SUPER SPORT 1000 DS"
+        ]
+    },
+    {
+        "make": "KAWASAKI",
+        "models": [
+            "EL250 ELIMINATOR 250",
+            "EN450",
+            "EN500 VULCAN",
+            "EX250 NINJA 250",
+            "EX500",
+            "KDX200",
+            "KE100",
+            "KL250 / KLR250",
+            "KL650 / KLR650",
+            "KZ1000P POLICE",
+            "VN1500 VULCAN",
+            "VN1500 VULCAN CLASSIC",
+            "VN750 VULCAN",
+            "ZG1000 CONCOURS 1000",
+            "ZG1200 VOYAGER XII",
+            "ZR550 ZEPHYR",
+            "ZX1000 / NINJA ZX-10",
+            "ZX1100 / NINJA ZX-11",
+            "ZX1100 / ZZR1100",
+            "ZX600 / NINJA 600R",
+            "ZX600 / NINJA ZX-6R",
+            "ZX750 / NINJA 750R",
+            "ZX750 / NINJA ZX-7"
+        ]
+    },
+    {
+        "make": "ATK",
+        "models": [
+            "125 ENDURO (125 LQ)",
+            "250 ENDURO (250 LQ)",
+            "250CC AIR COOLED",
+            "250CC LIQUID COOLED",
+            "260 ENDURO (260 LQ)",
+            "260CC LIQUID COOLED",
+            "350 DS ELECTRIC START",
+            "350 ENDURO",
+            "350CC ELECTRIC START",
+            "350CC KICK START",
+            "406CC AIR COOLED",
+            "450 ENDURO",
+            "490 ENDURO",
+            "490CC DS ELECTRIC START",
+            "600 DTM",
+            "600 MOTARD",
+            "605 DS ELECTRIC START",
+            "605 ENDURO",
+            "605CC ELECTRIC START",
+            "605CC KICK START",
+            "CROSS COUNTRY (ALL MODELS)",
+            "ENDURO (ALL MODELS)"
+        ]
+    },
+    {
+        "make": "BOSS HOSS",
+        "models": []
+    },
+    {
+        "make": "BIG TONY'S CHOPP SHOP",
+        "models": []
+    },
+    {
+        "make": "AMERICAN LIFAN INDUSTRY",
+        "models": []
+    },
+    {
+        "make": "CAMPAGNA",
+        "models": []
+    },
+    {
+        "make": "YAMAHA",
+        "models": [
+            "DT50",
+            "FJ1200",
+            "FZR1000",
+            "FZR400",
+            "FZR600",
+            "FZR750R",
+            "RZ350",
+            "TW200",
+            "VMX12 V-MAX",
+            "XT350",
+            "XT600",
+            "XTZ750",
+            "XV1100 VIRAGO",
+            "XV250 ROUTE 66",
+            "XV535",
+            "XV750 VIRAGO",
+            "XVZ1300 VENTURE ROYALE",
+            "YSR50",
+            "YSR80",
+            "YX600"
+        ]
+    },
+    {
+        "make": "BIG DOG",
+        "models": []
+    },
+    {
+        "make": "CF MOTO",
+        "models": []
+    },
+    {
+        "make": "ENERGICA MOTOR COMPANY",
+        "models": []
+    },
+    {
+        "make": "CLEVELAND CYCLEWERKS",
+        "models": []
+    },
+    {
+        "make": "DAYTEC",
+        "models": []
+    },
+    {
+        "make": "DONGFANG",
+        "models": []
+    },
+    {
+        "make": "DENALI",
+        "models": []
+    },
+    {
+        "make": "ECSTASY",
+        "models": []
+    },
+    {
+        "make": "CSC MOTORCYCLES",
+        "models": []
+    },
+    {
+        "make": "CHONGQING LIYANG JIAYU",
+        "models": []
+    },
+    {
+        "make": "CHRISTINI",
+        "models": []
+    },
+    {
+        "make": "DD CUSTOM",
+        "models": []
+    },
+    {
+        "make": "APRILIA",
+        "models": []
+    },
+    {
+        "make": "DUCATI",
+        "models": [
+            "1098S",
+            "1199",
+            "750 SPORT",
+            "851 SPORT",
+            "906 PASO",
+            "M900",
+            "M900/900 S",
+            "MH900E",
+            "MTS 620",
+            "SUPER SPORT",
+            "SUPER SPORT 1000 DS"
+        ]
+    },
+    {
+        "make": "GAS GAS",
+        "models": []
+    },
+    {
+        "make": "HARLEY-DAVIDSON",
+        "models": [
+            "FLHS",
+            "FLHT CLASS SHRINE",
+            "FLHT ELECTRA GLIDE STD",
+            "FLHTC ELECTRA GLIDE CLSC",
+            "FLHTCU ELECTRA GLIDE ULT",
+            "FLHTCU SHRINE",
+            "FLHTP",
+            "FLST",
+            "FLSTC HERITAGE CLASSIC",
+            "FLSTF FAT BOY",
+            "FLT CLASS SHRINE",
+            "FLT CLASSIC",
+            "FLTC-ULTRA",
+            "FLTC-ULTRA SHRINE",
+            "FXLR",
+            "FXR",
+            "FXRP",
+            "FXRS",
+            "FXRS CONV",
+            "FXRT",
+            "FXST SOFTAIL STANDARD",
+            "FXSTC SOFTAIL CUSTOM",
+            "FXSTS SPRINGER SOFTAIL",
+            "XL1200 SPORTSTER",
+            "XL883",
+            "XL883H HUGGER",
+            "XLH1200",
+            "XLH883 DELUXE"
+        ]
+    },
+    {
+        "make": "KOVE",
+        "models": []
+    },
+    {
+        "make": "KRAFT-TECH",
+        "models": []
+    },
+    {
+        "make": "KAYO",
+        "models": []
+    },
+    {
+        "make": "HUSABERG",
+        "models": [
+            "350",
+            "350E",
+            "501",
+            "501E",
+            "600",
+            "600E",
+            "FE 400E",
+            "FE 501E",
+            "FE 650E",
+            "FE350",
+            "FE400",
+            "FE501",
+            "FE570",
+            "FE600",
+            "FE650",
+            "FES600E",
+            "FS 400E",
+            "FS 650E",
+            "FS570",
+            "FS600"
+        ]
+    },
+    {
+        "make": "HUSQVARNA",
+        "models": [
+            "125 WXC",
+            "125 WXC/E",
+            "125 WXE",
+            "250 WXC",
+            "250 WXC/E",
+            "250 WXE",
+            "260 WXE",
+            "350 WXC",
+            "350 WXC/E",
+            "350 WXE",
+            "360 WXC",
+            "360 WXC/E",
+            "360 WXE",
+            "510 WXE",
+            "610 WXC",
+            "610 WXC/E",
+            "610 WXE",
+            "SM450R",
+            "SM570R",
+            "SM610",
+            "SM610S",
+            "SMR400",
+            "SMR510",
+            "SMR630",
+            "TE310",
+            "TE400",
+            "TE410",
+            "TE450",
+            "TE510",
+            "TE570",
+            "TE610E",
+            "TE630",
+            "WR125",
+            "WR250",
+            "WR300",
+            "WR360"
+        ]
+    },
+    {
+        "make": "CHEETAH TRIKES",
+        "models": []
+    },
+    {
+        "make": "KAWASAKI",
+        "models": [
+            "EL250 ELIMINATOR 250",
+            "EN450",
+            "EN500 VULCAN",
+            "EX250 NINJA 250",
+            "EX500",
+            "KDX200",
+            "KE100",
+            "KL250 / KLR250",
+            "KL650 / KLR650",
+            "KZ1000P POLICE",
+            "VN1500 VULCAN",
+            "VN1500 VULCAN CLASSIC",
+            "VN750 VULCAN",
+            "ZG1000 CONCOURS 1000",
+            "ZG1200 VOYAGER XII",
+            "ZR550 ZEPHYR",
+            "ZX1000 / NINJA ZX-10",
+            "ZX1100 / NINJA ZX-11",
+            "ZX1100 / ZZR1100",
+            "ZX600 / NINJA 600R",
+            "ZX600 / NINJA ZX-6R",
+            "ZX750 / NINJA 750R",
+            "ZX750 / NINJA ZX-7"
+        ]
+    },
+    {
+        "make": "JMSTAR",
+        "models": []
+    },
+    {
+        "make": "HONDA",
+        "models": [
+            "CB125TT",
+            "CB400F",
+            "CBR1000F",
+            "CBR125TTL",
+            "CBR600F",
+            "GB500",
+            "GL1500 GOLDWING",
+            "NS50F",
+            "NT650",
+            "NX125",
+            "NX250",
+            "PC800 PACIFIC COAST",
+            "VFR750F",
+            "VFR750R",
+            "VT1100C SHADOW",
+            "VT600C SHADOW",
+            "VT750C SHADOW",
+            "VTR250 INTERCEPTOR",
+            "XL600V",
+            "XR200R",
+            "XR250R",
+            "XR600R"
+        ]
+    },
+    {
+        "make": "GENUINE SCOOTER COMPANY",
+        "models": []
+    },
+    {
+        "make": "INDIAN MOTORCYCLE CO",
+        "models": []
+    },
+    {
+        "make": "JANUS MOTORCYCLES",
+        "models": []
+    },
+    {
+        "make": "KIT/HOMEMADE/STATE ASSIGN VINS",
+        "models": []
+    },
+    {
+        "make": "KYMCO",
+        "models": []
+    },
+    {
+        "make": "MCS CUSTOMS",
+        "models": []
+    },
+    {
+        "make": "LIVEWIRE",
+        "models": []
+    },
+    {
+        "make": "LAND MOTO",
+        "models": []
+    },
+    {
+        "make": "MOBILITY CONQUEST",
+        "models": []
+    },
+    {
+        "make": "MORGAN",
+        "models": []
+    },
+    {
+        "make": "MOTO GUZZI",
+        "models": []
+    },
+    {
+        "make": "QJ MOTOR",
+        "models": []
+    },
+    {
+        "make": "MOTUS",
+        "models": []
+    },
+    {
+        "make": "LIFAN",
+        "models": []
+    },
+    {
+        "make": "MASSIMO",
+        "models": []
+    },
+    {
+        "make": "REWACO",
+        "models": []
+    },
+    {
+        "make": "MV AGUSTA",
+        "models": []
+    },
+    {
+        "make": "OC CHOPPERS",
+        "models": []
+    },
+    {
+        "make": "ULTRA CYCLE",
+        "models": []
+    },
+    {
+        "make": "RPS",
+        "models": []
+    },
+    {
+        "make": "TH!NK",
+        "models": []
+    },
+    {
+        "make": "SOUTHEASTERN STEEL CHOPPERS",
+        "models": []
+    },
+    {
+        "make": "SSR MOTORSPORTS",
+        "models": []
+    },
+    {
+        "make": "SONDORS",
+        "models": []
+    },
+    {
+        "make": "SHERCO",
+        "models": []
+    },
+    {
+        "make": "TAO TAO",
+        "models": []
+    },
+    {
+        "make": "VITACCI",
+        "models": []
+    },
+    {
+        "make": "SANTEE",
+        "models": []
+    },
+    {
+        "make": "YAMAHA",
+        "models": [
+            "DT50",
+            "FJ1200",
+            "FZR1000",
+            "FZR400",
+            "FZR600",
+            "FZR750R",
+            "RZ350",
+            "TW200",
+            "VMX12 V-MAX",
+            "XT350",
+            "XT600",
+            "XTZ750",
+            "XV1100 VIRAGO",
+            "XV250 ROUTE 66",
+            "XV535",
+            "XV750 VIRAGO",
+            "XVZ1300 VENTURE ROYALE",
+            "YSR50",
+            "YSR80",
+            "YX600"
+        ]
+    },
+    {
+        "make": "WILD WEST",
+        "models": []
+    },
+    {
+        "make": "VOLCON",
+        "models": []
+    },
+    {
+        "make": "VECTRIX",
+        "models": []
+    },
+    {
+        "make": "ROKETA",
+        "models": []
+    },
+    {
+        "make": "KTM",
+        "models": [
+            "125 EXC",
+            "200EXC",
+            "250 EXC",
+            "300 EXC",
+            "360 EXC",
+            "400 EXC",
+            "400 RXC",
+            "450 EXC-G RACING",
+            "450 EXC-R",
+            "450 SMR",
+            "525 EXC-G RACING",
+            "530 EXC-R",
+            "600 E/XC",
+            "620 DUKE",
+            "620 EXC",
+            "620 RXC",
+            "625 SMR",
+            "640 ADVENTURE",
+            "640 LC4 ADVENTURE",
+            "640 LC4 ORANGE 18 LITERS",
+            "640 LC4 RED 18 LITERS",
+            "640 LC4 SUPERMOTO RED",
+            "660 LC4 RALLY",
+            "660 RALLY",
+            "690 DUKE",
+            "690 ENDURO",
+            "690 SMC",
+            "690 SUPERMOTO",
+            "690 SUPERMOTO R",
+            "950 ADVENTURE",
+            "950 ADVENTURE BLACK",
+            "950 ADVENTURE ORANGE",
+            "950 ADVENTURE S",
+            "950 RALLY",
+            "950 SUPER ENDURO",
+            "950 SUPER MOTO",
+            "950R SUPER ENDURO",
+            "990 ADVENTURE",
+            "990 ADVENTURE S",
+            "990 SMT",
+            "990 SUPER DUKE",
+            "990 SUPER DUKE R",
+            "ADVENTURE",
+            "ADVENTURE 640",
+            "ADVENTURE 990",
+            "DESERT",
+            "DUKE 690",
+            "DUKE II 640",
+            "ENDURO 690",
+            "EXC",
+            "EXC 125",
+            "EXC 200",
+            "EXC 250",
+            "EXC 250 RACING",
+            "EXC 300",
+            "EXC 380",
+            "EXC 400 RACING",
+            "EXC 450 RACING",
+            "EXC 520 RACING",
+            "EXC 525 RACING",
+            "LC 4",
+            "RALLY ADVENTURE",
+            "RXC",
+            "SUPER DUKE",
+            "SUPER ENDURO",
+            "SUPER MOTO 690",
+            "SUPER MOTO 950",
+            "TXC (ALL MODELS)"
+        ]
+    },
+    {
+        "make": "ZERO MOTORCYCLES",
+        "models": []
+    },
+    {
+        "make": "WESTWARD INDUSTRIES",
+        "models": []
+    },
+    {
+        "make": "TRIUMPH",
+        "models": []
+    },
+    {
+        "make": "XINGYUE GROUP CO., LTD.",
+        "models": []
+    },
+    {
+        "make": "URAL",
+        "models": []
+    },
+    {
+        "make": "SUZUKI",
+        "models": [
+            "DR100",
+            "DR250",
+            "DR350",
+            "DR650S",
+            "DR800S",
+            "DS80",
+            "GS500",
+            "GSX-R1100",
+            "GSX-R750",
+            "GSX1100F KATANA 1100",
+            "GSX600F KATANA 600",
+            "GSX750F KATANA 750",
+            "LS650 SAVAGE 650",
+            "RMX250",
+            "VS1400 INTRUDER 1400",
+            "VS750 INTRUDER 750",
+            "VX800 MARAUDER 800"
+        ]
+    },
+    {
+        "make": "ROYAL ENFIELD",
+        "models": [
+            "BULLET 350",
+            "BULLET 500",
+            "BULLET ELECTRA",
+            "BULLET MACHISMO",
+            "ELECTRA X",
+            "EURO CLASSIC",
+            "LIGHTNING CLASSIC",
+            "MACHISMO A 350",
+            "MILITARY",
+            "POLICE",
+            "THUNDERBIRD"
+        ]
+    },
+    {
+        "make": "V-8 CHOPPERS",
+        "models": []
+    }
+]
