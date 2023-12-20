@@ -48,6 +48,13 @@ app.get('/api/motorcycles', async (c: Context) => {
     return  c.json(jsonData)
 })
 
+app.get('/', async (c: Context) => {
+    
+    const data = await Deno.readTextFile('page.html')
+    return c.html(data)
+
+})
+
 
 
 

@@ -4,7 +4,7 @@ This is a simple API built with Deno that provides information about vehicles ba
 
 ## Available Routes
 
-- GET /api/motorcycles/:year
+- GET /api/motorcycles/{year}
 
     Retrieves information about motorcycles manufactured in the specified year.
 
